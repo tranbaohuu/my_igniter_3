@@ -27,6 +27,6 @@ class Welcome extends CI_Controller {
 
     public  function xuat()
     {
-        echo("<h1>Slasdsdm</h1>");
+        echo("<h1>Slam</h1>");
     }
 }
