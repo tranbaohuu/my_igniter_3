@@ -103,6 +103,13 @@ public  function test_csdl_query()
      }
 
 
+     public function demo_admin()
+     {
+
+         $this->load->view("master_header");
+
+     }
+
 }
 
 

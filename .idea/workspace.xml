@@ -25,25 +25,27 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="home.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="home.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/controllers/home.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.70740104" vertical-offset="1102" max-vertical-offset="1938">
-              <caret line="89" column="49" selection-start-line="89" selection-start-column="41" selection-end-line="89" selection-end-column="49" />
+            <state vertical-scroll-proportion="-13.846154" vertical-offset="1476" max-vertical-offset="2057">
+              <caret line="108" column="41" selection-start-line="108" selection-start-column="28" selection-end-line="108" selection-end-column="41" />
               <folding>
                 <element signature="e#6#93#0#PHP" expanded="true" />
-                <marker date="1432220554562" expanded="true" signature="803:825" placeholder="select * fro..thongtin..." />
+                <marker date="1432303640919" expanded="true" signature="803:825" placeholder="select * fro..thongtin..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="view_hoctro.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/views/view_hoctro.php">
+      <file leaf-file-name="master_header.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/application/views/master_header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="133" max-vertical-offset="714">
-              <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
-              <folding />
+            <state vertical-scroll-proportion="0.70740104" vertical-offset="184" max-vertical-offset="1088">
+              <caret line="35" column="39" selection-start-line="35" selection-start-column="39" selection-end-line="35" selection-end-column="39" />
+              <folding>
+                <element signature="e#6#93#0#PHP" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -62,6 +64,7 @@
         <option value="$PROJECT_DIR$/application/views/view_hoctro.php" />
         <option value="$PROJECT_DIR$/application/config/database.php" />
         <option value="$PROJECT_DIR$/application/controllers/home.php" />
+        <option value="$PROJECT_DIR$/application/views/master_header.php" />
       </list>
     </option>
   </component>
@@ -98,6 +101,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -113,20 +117,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="my_igniter_3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="my_igniter_3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="my_igniter_3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="system" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -182,7 +172,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -206,11 +195,6 @@
       <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="Welcome.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/my_igniter_3/application/controllers/Welcome.php">
-      <RunnerSettings RunnerId="JavascriptDebugRunner" />
-      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
-      <method />
-    </configuration>
     <configuration default="false" name="mycontroller.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/application/controllers/mycontroller.php">
       <RunnerSettings RunnerId="PhpRunner" />
       <ConfigurationWrapper RunnerId="PhpRunner" />
@@ -219,6 +203,11 @@
     <configuration default="false" name="index.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/index.php">
       <RunnerSettings RunnerId="PhpRunner" />
       <ConfigurationWrapper RunnerId="PhpRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="master_header.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost/application/views/master_header.php">
+      <RunnerSettings RunnerId="JavascriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
       <method />
     </configuration>
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -231,10 +220,10 @@
     <configuration default="true" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application">
       <method />
     </configuration>
-    <configuration default="true" type="PhpRemoteDebugRunConfigurationType" factoryName="PHP Remote Debug">
+    <configuration default="true" type="PhpHttpRequestRunConfigurationType" factoryName="PHP HTTP Request">
       <method />
     </configuration>
-    <configuration default="true" type="PhpHttpRequestRunConfigurationType" factoryName="PHP HTTP Request">
+    <configuration default="true" type="PhpRemoteDebugRunConfigurationType" factoryName="PHP Remote Debug">
       <method />
     </configuration>
     <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
@@ -247,6 +236,9 @@
       <BehatRunner />
       <method />
     </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server" server_id="fdaac6f3-90c0-4eb8-8559-da6af9d6e3b3" server_name="XAMPP APACHE">
+      <method />
+    </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <node-options />
       <gulpfile />
@@ -256,23 +248,20 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server" server_id="fdaac6f3-90c0-4eb8-8559-da6af9d6e3b3" server_name="XAMPP APACHE">
-      <method />
-    </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
       <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.php" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.Welcome.php" />
-      <item index="3" class="java.lang.String" itemvalue="PHP Script.mycontroller.php" />
-      <item index="4" class="java.lang.String" itemvalue="PHP Script.index.php" />
+      <item index="2" class="java.lang.String" itemvalue="PHP Script.mycontroller.php" />
+      <item index="3" class="java.lang.String" itemvalue="PHP Script.index.php" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.master_header.php" />
     </list>
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.php" />
-        <item index="1" class="java.lang.String" itemvalue="PHP Script.index.php" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
-        <item index="3" class="java.lang.String" itemvalue="PHP Script.mycontroller.php" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.Welcome.php" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.master_header.php" />
+        <item index="2" class="java.lang.String" itemvalue="PHP Script.index.php" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+        <item index="4" class="java.lang.String" itemvalue="PHP Script.mycontroller.php" />
       </list>
     </recent_temporary>
   </component>
@@ -290,7 +279,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -307,12 +296,12 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
     <layout-to-restore>
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -332,9 +321,9 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18020834" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31045407" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -360,11 +349,30 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/application/controllers/home.php">
       <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1938">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#93#0#PHP" expanded="true" />
+            <marker date="1432303640919" expanded="true" signature="803:825" placeholder="select * fro..thongtin..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/view_hoctro.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="133" max-vertical-offset="714">
+          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/home.php">
+      <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1615">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#6#93#0#PHP" expanded="true" />
-            <marker date="1432220554562" expanded="true" signature="803:825" placeholder="select * fro..thongtin..." />
+            <marker date="1432303640919" expanded="true" signature="803:825" placeholder="select * fro..thongtin..." />
           </folding>
         </state>
       </provider>
@@ -383,7 +391,7 @@
           <caret line="35" column="20" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
           <folding>
             <element signature="e#6#93#0#PHP" expanded="true" />
-            <marker date="1432220554562" expanded="true" signature="803:825" placeholder="select * fro..thongtin..." />
+            <marker date="1432303640919" expanded="true" signature="803:825" placeholder="select * fro..thongtin..." />
           </folding>
         </state>
       </provider>
@@ -402,7 +410,7 @@
           <caret line="12" column="33" selection-start-line="11" selection-start-column="0" selection-end-line="12" selection-end-column="33" />
           <folding>
             <element signature="e#6#93#0#PHP" expanded="true" />
-            <marker date="1432220554562" expanded="true" signature="803:825" placeholder="select * fro..thongtin..." />
+            <marker date="1432303640919" expanded="true" signature="803:825" placeholder="select * fro..thongtin..." />
           </folding>
         </state>
       </provider>
@@ -420,7 +428,7 @@
           <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
           <folding>
             <element signature="e#6#93#0#PHP" expanded="true" />
-            <marker date="1432220554562" expanded="true" signature="803:825" placeholder="select * fro..thongtin..." />
+            <marker date="1432303640919" expanded="true" signature="803:825" placeholder="select * fro..thongtin..." />
           </folding>
         </state>
       </provider>
@@ -459,7 +467,7 @@
           <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
           <folding>
             <element signature="e#6#93#0#PHP" expanded="true" />
-            <marker date="1432220554562" expanded="true" signature="803:825" placeholder="select * fro..thongtin..." />
+            <marker date="1432303640919" expanded="true" signature="803:825" placeholder="select * fro..thongtin..." />
           </folding>
         </state>
       </provider>
@@ -498,7 +506,7 @@
           <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
           <folding>
             <element signature="e#6#93#0#PHP" expanded="true" />
-            <marker date="1432220554562" expanded="true" signature="803:825" placeholder="select * fro..thongtin..." />
+            <marker date="1432303640919" expanded="true" signature="803:825" placeholder="select * fro..thongtin..." />
           </folding>
         </state>
       </provider>
@@ -537,7 +545,7 @@
           <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
           <folding>
             <element signature="e#6#93#0#PHP" expanded="true" />
-            <marker date="1432220554562" expanded="true" signature="803:825" placeholder="select * fro..thongtin..." />
+            <marker date="1432303640919" expanded="true" signature="803:825" placeholder="select * fro..thongtin..." />
           </folding>
         </state>
       </provider>
@@ -552,13 +560,6 @@
     <entry file="file://$PROJECT_DIR$/application/controllers/Welcome.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="646">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/system/libraries/Javascript/Jquery.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="18394">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
@@ -612,13 +613,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/welcome_message.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.5384617" vertical-offset="722" max-vertical-offset="1615">
-          <caret line="54" column="38" selection-start-line="54" selection-start-column="38" selection-end-line="54" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/application/config/database.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.35628226" vertical-offset="966" max-vertical-offset="1547">
@@ -626,21 +620,63 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/view_hoctro.php">
+    <entry file="file://$PROJECT_DIR$/application/views/welcome_message.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="133" max-vertical-offset="714">
-          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+        <state vertical-scroll-proportion="1.5800344" vertical-offset="0" max-vertical-offset="1615">
+          <caret line="54" column="38" selection-start-line="54" selection-start-column="38" selection-end-line="54" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/libraries/Pagination.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.8777969" vertical-offset="510" max-vertical-offset="11934">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/libraries/Javascript/Jquery.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.7900172" vertical-offset="459" max-vertical-offset="18394">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="594">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/controllers/home.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.70740104" vertical-offset="1102" max-vertical-offset="1938">
-          <caret line="89" column="49" selection-start-line="89" selection-start-column="41" selection-end-line="89" selection-end-column="49" />
+        <state vertical-scroll-proportion="-13.846154" vertical-offset="1476" max-vertical-offset="2057">
+          <caret line="108" column="41" selection-start-line="108" selection-start-column="28" selection-end-line="108" selection-end-column="41" />
           <folding>
             <element signature="e#6#93#0#PHP" expanded="true" />
-            <marker date="1432220554562" expanded="true" signature="803:825" placeholder="select * fro..thongtin..." />
+            <marker date="1432303640919" expanded="true" signature="803:825" placeholder="select * fro..thongtin..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/view_hoctro.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.44406196" vertical-offset="133" max-vertical-offset="714">
+          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/master_header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.70740104" vertical-offset="184" max-vertical-offset="1088">
+          <caret line="35" column="39" selection-start-line="35" selection-start-column="39" selection-end-line="35" selection-end-column="39" />
+          <folding>
+            <element signature="e#6#93#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
